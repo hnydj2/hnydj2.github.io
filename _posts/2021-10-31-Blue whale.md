@@ -9,11 +9,11 @@ title: The life of the blue whale in Natural History Museum
 
 
 ## Layout
-Main page:
+### Main page:
 The layout has been evenly divided into three vertical parts, arranging from the left to the right side. At the top, there is a headline indicating the main topic,
 followed by a icon of blue whale in the next row.
 In the middle part, a caption gives an overview of the content in this page. The main body displays three sections with background images and headlines, "1891 The Ocean", "2017 Hinzte Hall", and "1892-2016 The collections". The museum name and logo stay at the bottom left, while the social media icons are placed at the bottom right.
-Section page:
+### Section page:
 Each section page has the similar layout. At the top left is placed the section headline, followed by a caption explaning how to navigate this page. There is a button "choose another scene" at the top right side. The icon of blue whale skeleton is placed at the centre of the main page, surrounded by a few buttons of subsections. Each section page has a dominant color of background.
 Subsection page:
 The icons of section page link to subsections with thorough content. The layout of a subsection page is evenly divided into two vertical parts: left and right. One part is placed with image while the other shows captions. At the end of the page, there's a link back to main page. 
