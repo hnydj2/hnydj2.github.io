@@ -20,6 +20,7 @@ The icons of section page link to subsections with thorough content. The layout 
 
 
 
+
 ## User experience
 ### Main page:
 The headline of the main page is placed at the top centre, the most prominent position in one webpage, while the font size of "blue whale" is highlighted. Therefore, users can immediately get the main idea of this webpage at the first glance. Followed by the headline, users learn the structure of different sections. When they mouse over one of three divisions, the change of background color and button style show them which section they are going to select. At the bottom, users are allowd to go back to homepage and navigate to social media profiles.
